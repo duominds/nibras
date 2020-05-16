@@ -1,0 +1,8 @@
+FROM python
+RUN mkdir /opt/nibras
+COPY nibras /opt/nibras
+COPY requirements.txt requirements.txt
+ARG DEBIAN_FRONTEND=noninteractive
+RUN apt-get update && apt-get -y install vim  && apt-get -y install net-tools && apt-get -y  install build-essential cmake
+RUN pip install --no-cache-dir -r requirements.txt
+ENTRYPOINT bash

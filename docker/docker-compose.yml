@@ -1,0 +1,12 @@
+version: "3.7"
+
+services:
+  # nibras server
+  nibras:
+    build:
+      context: .
+      dockerfile: Dockerfile-nibras-server
+    image: python
+    container_name: nibras_server
+    stdin_open: true
+    tty: true

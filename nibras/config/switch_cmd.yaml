@@ -1,0 +1,7 @@
+---
+- show version
+- show running-config
+- show mac address-table
+- show interfaces trunk
+- show interfaces | include Hardware
+- show clock
