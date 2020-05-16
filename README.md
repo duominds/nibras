@@ -1,7 +1,7 @@
 # Nibras 
 
 ## Introduction 
----------------
+
 
 ### How many assets do I have in my environment ?
 
@@ -19,7 +19,7 @@
 #####  Upon execution, Nibras generates two different output files (XLS and JSON).
 
 ## Installation 
----------------
+
 
 
 ##### For your convenience and ease of use, Nibras comes in two builds. The first build is a python script that can be executed from any platform that has Python3 installed. Moreover Nibras comes in a docker container form (docker-compose file is provided)
@@ -31,7 +31,7 @@ pip install -r requiremnts.txt
 ```
 
 ## Usage
---------
+
 
 ##### 1. Nibras parses the target systems data from an input file located under the input folder. Only CSV or XLS extensions are supported. The file must be named as either input.csv or input.xls.
 
@@ -48,7 +48,7 @@ pip install -r requiremnts.txt
 ![Execution sample](https://i.imgur.com/VQ3UVwn.png)
 
 ## Roadmap
-----------
+
 
 - Integration with layer3 devices for more accurate results.
 - Adding more support to other vendors.
