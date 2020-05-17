@@ -45,7 +45,7 @@ pip install -r requiremnts.txt
 ##### The script reports any issues directly on the screen, so please make sure to observe the output of the script while it's running.
 
 
-![Execution sample](https://i.imgur.com/VQ3UVwn.png)
+![Execution sample](https://imgur.com/QT65K15.png)
 
 ## Roadmap
 
