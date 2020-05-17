@@ -35,8 +35,11 @@ pip install -r requiremnts.txt
 
 ##### 1. Nibras parses the target systems data from an input file located under the input folder. Only CSV or XLS extensions are supported. The file must be named as either input.csv or input.xls.
 
+##### XLS Input 
 ![XLS input sample](https://imgur.com/iW1dxnl.png)
 
+
+##### CSV Input 
 ![CSV input sample](https://imgur.com/c67bade.png)
 
 
@@ -50,7 +53,17 @@ pip install -r requiremnts.txt
 ##### The script reports any issues directly on the screen, so please make sure to observe the output of the script while it's running.
 
 
+
+
+##### Execution 
 ![Execution sample](https://imgur.com/QT65K15.png)
+
+
+##### XLS output
+![XLS output](https://imgur.com/lq6k5mb.png)
+
+##### JSON output
+![JSON output](https://imgur.com/CpunyZz.png)
 
 ## Roadmap
 
