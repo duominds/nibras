@@ -66,9 +66,6 @@ pip install -r requiremnts.txt
 ![JSON output](https://imgur.com/CpunyZz.png)
 
 
-##### Live demo 
-
-![Live Demo](https://gifyu.com/image/ndNW)
 
 
 ## Roadmap
