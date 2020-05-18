@@ -66,7 +66,9 @@ pip install -r requiremnts.txt
 ![JSON output](https://imgur.com/CpunyZz.png)
 
 
+##### Live demo 
 
+![](screen_rec.gif)
 
 ## Roadmap
 
